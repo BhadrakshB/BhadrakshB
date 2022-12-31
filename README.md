@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Flutter Developer
 -----------------
 
-I've been learning to code since 5 years. Know a fair amount of languages like, C, C++, Python, Dart and have a some knowledge of HTML and CSS
+I've been learning to code since 8 years. Know a fair amount of languages like, C, C++, Python, Dart and have a some knowledge of HTML and CSS
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [LinkedIn Profile](http://linkedin/in/bhadraksh-bhargaba)
