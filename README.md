@@ -1,18 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhadraksh Bhargava
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhadraksh Bhargava
 ==========================================================================================================================================
 
 Flutter Developer
 -----------------
 
-I've been learning to code since 8 years. Know a fair amount of languages like, C, C++, Python, Dart and have a some knowledge of HTML and CSS
+I've been learning to code since 8 years. Know a fair amount of languages like, C, C++, Python, Dart, Solidity and have a some knowledge of HTML and CSS.
+Currently upskilling myself in the Web 3.0 domain. 
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [LinkedIn Profile](http://linkedin/in/bhadraksh-bhargaba)
 * ✉️  You can contact me at [flashbad04@gmail.com](mailto:flashbad04@gmail.com )
 * 🚀  I'm currently working on [Jhattcut](http://jhatcut.com)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Interesting projects related to Flutter and also Python automation project.
-* ⚡  I am not all technical, love playing guitar, into finance and experience with Adobe Creative Line of Products
+* 🤝  I'm open to collaborating on Interesting projects related to Flutter, Python automation project and Dapp development.
+* ⚡  I am not all technical, love playing guitar, into finance management and experience with Adobe Creative Line of Products
 
 ### Skills
 
