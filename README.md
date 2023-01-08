@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhadraksh Bhargava
 ==========================================================================================================================================
 
-Flutter Developer
------------------
+Flutter Developer and Blockchain Enthusiast
+--------------------------------------------
 
 I've been learning to code since 8 years. Know a fair amount of languages like, C, C++, Python, Dart, Solidity and have a some knowledge of HTML and CSS.
 Currently upskilling myself in the Web 3.0 domain. 
