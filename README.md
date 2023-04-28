@@ -8,7 +8,7 @@ I've been learning to code since 8 years. Know a fair amount of languages like, 
 Currently upskilling myself in the Web 3.0 domain. 
 
 * 🌍  I'm based in Hyderabad
-* 🖥️  See my portfolio at [LinkedIn Profile](http://linkedin/in/bhadraksh-bhargaba)
+* 🖥️  See my portfolio at [LinkedIn Profile](http://linkedin/in/bhadraksh-bhargava)
 * ✉️  You can contact me at [flashbad04@gmail.com](mailto:flashbad04@gmail.com )
 * 🚀  I'm currently working on [Jhattcut](http://jhatcut.com)
 * 🧠  I'm learning Flutter
