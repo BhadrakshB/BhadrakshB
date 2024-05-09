@@ -1,19 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhadraksh Bhargava
 ==========================================================================================================================================
 
-Flutter Developer and Blockchain Enthusiast
+An unconvention Frontend and Backend Enthusiast
 --------------------------------------------
 
-I've been learning to code since 8 years. Know a fair amount of languages like, C, C++, Python, Dart, Solidity and have a some knowledge of HTML and CSS.
-Currently upskilling myself in the Web 3.0 domain. 
+With over 2 years of professional experience as a developer, I have gained quite an array of skills. From Flutter Development and API Development to Machine Learning and Cloud Computing.
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [LinkedIn Profile](http://linkedin/in/bhadraksh-bhargava)
 * ✉️  You can contact me at [flashbad04@gmail.com](mailto:flashbad04@gmail.com )
-* 🚀  I'm currently working on [Jhattcut](http://jhatcut.com)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Interesting projects related to Flutter, Python automation project and Dapp development.
-* ⚡  I am not all technical, love playing guitar, into finance management and experience with Adobe Creative Line of Products
+* 🚀  I'm currently working at [Asymmetri](https://www.asymmetri.in/)
+* 🧠  I'm learning Django
+* 🤝  I'm open to collaborating on Interesting projects related to Flutter, Python Development and Sotware Development that challenges me.
+* ⚡  I am not all technical. I love playing guitar, into finance management and experience with Adobe Creative Line of Products
 
 ### Skills
 
