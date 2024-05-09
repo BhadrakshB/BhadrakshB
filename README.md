@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhadraksh Bhargava
 ==========================================================================================================================================
 
-An unconvention Frontend and Backend Enthusiast
+An Unconventional Frontend and Backend Enthusiast
 --------------------------------------------
 
 With over 2 years of professional experience as a developer, I have gained quite an array of skills. From Flutter Development and API Development to Machine Learning and Cloud Computing.
