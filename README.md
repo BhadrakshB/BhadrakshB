@@ -10,8 +10,7 @@ With over 2 years of professional experience as a developer, I have gained quite
 * 🖥️  See my portfolio at [LinkedIn Profile](http://linkedin/in/bhadraksh-bhargava)
 * ✉️  You can contact me at [flashbad04@gmail.com](mailto:flashbad04@gmail.com )
 * 🚀  I'm currently working at [Asymmetri](https://www.asymmetri.in/)
-* 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on Interesting projects related to Flutter, Python Development and Sotware Development that challenges me.
+* 🤝  I'm open to collaborating on interesting projects related to Flutter, Python Development and Software Development that challenges me.
 * ⚡  I am not all technical. I love playing guitar, into finance management and experience with Adobe Creative Line of Products
 
 ### Skills
