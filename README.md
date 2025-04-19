@@ -7,7 +7,7 @@ An Unconventional Frontend and Backend Enthusiast
 With over 2 years of professional experience as a developer, I have gained quite an array of skills. From Flutter Development and API Development to Machine Learning and Cloud Computing.
 
 * 🌍  I'm based in Hyderabad
-* 🖥️  See my portfolio at [LinkedIn Profile](http://linkedin/in/bhadraksh-bhargava)
+* 🖥️  See my portfolio at [LinkedIn Profile](https://www.linkedin.com/in/bhadraksh-bhargava)
 * ✉️  You can contact me at [flashbad04@gmail.com](mailto:flashbad04@gmail.com )
 * 🚀  I'm currently working at [Asymmetri](https://www.asymmetri.in/)
 * 🤝  I'm open to collaborating on interesting projects related to Flutter, Python Development and Software Development that challenges me.
