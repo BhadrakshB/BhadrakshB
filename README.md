@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhadraksh Bhargava
 ==========================================================================================================================================
 
-An Unconventional Frontend and Backend Enthusiast
+An Unconventional Developer
 --------------------------------------------
 
-With over 2 years of professional experience as a developer, I have gained quite an array of skills. From Flutter Development and API Development to Machine Learning and Cloud Computing.
+With over 2 years of professional experience as a developer, I have gained quite an array of skills. From Cross-Platform Development and Full Stack Development to Cloud Computing.
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [LinkedIn Profile](https://www.linkedin.com/in/bhadraksh-bhargava)
