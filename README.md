@@ -1,17 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhadraksh Bhargava
-==========================================================================================================================================
+# **Hi there 👋 I'm Bhadraksh Bhargava**
 
-An Unconventional Developer
---------------------------------------------
+### **🚀 Senior Year Student & SDE-1 @ Asymmetri**
 
-With over 2 years of professional experience as a developer, I have gained quite an array of skills. From Cross-Platform Development and Full Stack Development to Cloud Computing.
+An adaptable and driven developer with a strong foundation in full-stack, mobile, and cloud development. My experience spans from building scalable microservices and CI/CD pipelines to pioneering leadership roles in community-driven tech initiatives. I am passionate about leveraging new technologies to solve complex problems and contribute to impactful projects.
 
-* 🌍  I'm based in Hyderabad
-* 🖥️  See my portfolio at [LinkedIn Profile](https://www.linkedin.com/in/bhadraksh-bhargava)
-* ✉️  You can contact me at [flashbad04@gmail.com](mailto:flashbad04@gmail.com )
-* 🚀  I'm currently working at [Asymmetri](https://www.asymmetri.in/)
-* 🤝  I'm open to collaborating on interesting projects related to Flutter, Python Development and Software Development that challenges me.
-* ⚡  I am not all technical. I love playing guitar, into finance management and experience with Adobe Creative Line of Products
+### **🌐 About Me**
+
+I'm a final-year B.Tech student in Electronics and Communication Engineering at IIIT Tiruchirapalli, with a passion for software development and leadership. As an SDE-1 at Asymmetri, I am currently building and deploying production-ready applications using technologies like Flutter, React Native, and Go. My technical toolkit is robust, encompassing skills in Docker, PostgreSQL, GCP, and CI/CD pipelines. Beyond my core technical work, I have a proven track record of leadership, having founded the GDSC chapter at my university and led major tech events. When I'm not coding, I enjoy exploring my creative side by playing musical instruments, diving into finance, and optimizing my personal growth through productivity systems.
+
+### **🛠️ Key Projects**
+
+**1\. Vet Clinic Management Software**
+
+* Engineered a scalable microservices architecture using **Go/Gin** and **RabbitMQ** for a full-stack system.  
+* Developed a containerized **Flutter** application with **GetX** state management, deployed on **GCP Cloud Run**.  
+* *Demonstrates expertise in distributed systems, full-stack, and cloud-native development.*
+
+**2\. Google's ADK Open Source Contribution**
+
+* Built a real-time graph visualization feature for Google's Agent Development Kit.  
+* The tool helps developers debug multi-agent AI interactions through intuitive visual flows.  
+* *Showcases skills in data structures and algorithm optimization for complex systems.*
+
+**3\. Agriculture Platform Smart Contract**
+
+* Developed a **blockchain-based solution** using **Solidity** that successfully decreased supply chain costs by 40%.  
+* *Highlights a strong understanding of emerging technologies and their real-world applications.*
+
+### **💼 Experience**
+
+* **SDE-1 Mobile Apps, Asymmetri** (May 2024 \- Present): Constructed four production-ready applications, established CI/CD pipelines, and engineered a robust state management system.  
+* **Software Development Intern, Buildit Technologies** (May 2023 \- Aug 2023): Developed a social-media application backend, optimized database schemas, and enhanced UI features.  
+* **Frontend Development Lead, Jhattcut** (Sept 2022 \- Nov 2023): Designed two high-performance Flutter apps and implemented GitHub Actions workflows for automated deployment.  
+* **Freelance Developer:** Developed a custom greeting card application using Flutter and Django, showcasing strong API integration.
+
+### **⚙️ Skills**
+
+My technical skills include:
+
+* **Languages:** Go, Dart, Python, Solidity, HTML5, CSS3, C++  
+* **Frameworks & Libraries:** Flutter, React/React Native, Next.js, Gin, Node.js, FastAPI  
+* **Databases:** PostgreSQL, MySQL  
+* **Tools & Platforms:** VS Code, Cursor, Docker, GCP, RabbitMQ, Git, GitHub Actions, Figma, Adobe Photoshop
+
+### **📫 Connect with Me**
+
+* **GitHub:** [BhadrakshB](https://github.com/BhadrakshB)  
+* **LinkedIn:** [Bhadraksh Bhargava](https://www.linkedin.com/in/bhadraksh-bhargava)  
+* **Stack Overflow:** [Bhadraksh Bhargava](https://stackoverflow.com/users/18715055/bhadraksh-bhargava)  
+* **Email:** [bhadrakshbhargava@gmail.com](mailto:bhadrakshbhargava@gmail.com)
 
 ### Skills
 
